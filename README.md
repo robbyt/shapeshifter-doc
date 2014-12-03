@@ -30,3 +30,16 @@ Shapeshifter Tips + Tricks
 
 - With osc2 in lfo mode use the ring mode combo mode to get cool envelope effects 
   (good in perc mode - the lfo is synced to the attack so osc2 becomes another envelope for osc1) 
+
+- With OSC2 in LFO mode, patch it into Mod A while in Vocoder mode. Activate Chord mode. 
+  Set the OSC2 Multi value to something greater than 1 and play with the ratio to get a nice complex modulation source. 
+  It can sound even better if OSC1 is also in LFO mode. 
+
+- With OSC2 in LFO mode patch it into the FOLD input. Now adjust the FOLD amount and take the output back to the FM1 (or any other mod input). 
+  It creates really complex modulation that can vary in interesting ways depending on the amount of folding. 
+  Some of the LFO wavebanks work really well for this. 
+
+- With percussive mode active you get an overall amplitude decay on OUT1. You can use OSC2 in LFO mode as a second envelope if you select wavetablebank:LFO3. 
+  It will cycle so make sure to dial in a frequency that works with your decay value of the percussive envelope. Patch OSC2 into FM1 to modulate the pitch. 
+  Use a trigger at the sync input to trigger and sync both percussive envelopes (pitch and amplitude). 
+  It makes great kick drums which you can morph into other percussive sounds.
