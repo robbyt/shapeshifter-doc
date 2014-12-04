@@ -1,6 +1,10 @@
 Shapeshifter Tips + Tricks
 ==========================
 
+- Percussion mode: plug a gate signal into the 'sync' jack; simple envelope is triggered and modulated with decay control. In this mode
+  you can also use the built-in delay, whose time is modulated by the pitch of oscillator 2. Osc 2 pitch can be modulated by
+  the ratio control knob or MODB. Make sure LFO mode is enabled for OSC2.
+
 - You can modulate the decay for all presets using the MODB bus. To enable this, press the DETUNE/DCAY button twice. 
   This will map the DECAY setting to the MODB signal. You can either use the MODB input or just play with the MODB 
   knob to vary the DECAY values while stepping through the presets.
